@@ -1,0 +1,28 @@
+{
+    "name": "spec-doc/rule-contracts",
+    "type": "library",
+    "description": "A set of abstractions interfaces of rules for a specification",
+    "license": "MIT",
+    "keywords": ["abstractions", "contracts", "interfaces", "rule", "rules"],
+    "homepage": "https://github.com/spec-doc",
+    "support": {
+        "issues": "https://github.com/spec-doc/specificator/issues",
+        "source": "https://github.com/spec-doc/rule-contracts"
+    },
+    "authors": [
+        {
+            "name": "Ivan Mezinov",
+            "email": "ivanmezinov@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SpecDoc\\Specificator\\Contracts\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
