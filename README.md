@@ -1,6 +1,6 @@
-# Specification Contracts
+# Rule Contracts
 
-A set of specification abstractions for the specificator.
+A set of abstractions interfaces of rules for a specification.
 
 ### Resources
 
